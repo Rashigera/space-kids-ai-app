@@ -13,6 +13,7 @@
   "dependencies": {
     "compression": "^1.8.0",
     "express": "^5.0.1",
+    "firebase": "^11.7.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-webcam": "^7.2.0",
